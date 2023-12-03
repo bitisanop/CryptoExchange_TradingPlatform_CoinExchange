@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 76 76">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #94b9fd;
+      }
+
+      .cls-2 {
+        fill: url(#_未命名的渐变_304-2);
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_304);
+      }
+
+      .cls-4 {
+        fill: #4187f7;
+      }
+
+      .cls-5 {
+        fill: #689aff;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_304" data-name="未命名的渐变 304" x1="27.65" y1="17.96" x2="27.65" y2="34.09" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#85b5f8"/>
+      <stop offset=".89" stop-color="#4187f7"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_304-2" data-name="未命名的渐变 304" x1="17.53" y1="51.05" x2="17.53" y2="60.1" xlink:href="#_未命名的渐变_304"/>
+  </defs>
+  <ellipse class="cls-5" cx="27.8" cy="25.73" rx="11.78" ry="11.73"/>
+  <ellipse class="cls-3" cx="27.65" cy="26.02" rx="8.1" ry="8.07"/>
+  <path class="cls-1" d="M57.92,22.34l-29.05,27.48c-.67,.63-1.73,.61-2.36-.06h0c-.64-.67-.61-1.72,.06-2.35l29.05-27.48c.67-.63,1.73-.61,2.36,.06h0c.64,.67,.61,1.72-.06,2.35Z"/>
+  <rect class="cls-1" x="42.96" y="19.28" width="15.35" height="3.33" rx="1.66" ry="1.66" transform="translate(.56 -1.29) rotate(1.47)"/>
+  <rect class="cls-1" x="44.92" y="40.73" width="36.82" height="3.34" rx="1.65" ry="1.65" transform="translate(105.73 -20.93) rotate(90)"/>
+  <rect class="cls-1" x="40.61" y="44.92" width="28.44" height="3.34" rx="1.65" ry="1.65" transform="translate(101.41 -8.24) rotate(90)"/>
+  <rect class="cls-1" x="36.41" y="49.22" width="19.83" height="3.34" rx="1.65" ry="1.65" transform="translate(97.22 4.57) rotate(90)"/>
+  <rect class="cls-1" x="31.7" y="53.01" width="12.25" height="3.34" rx="1.65" ry="1.65" transform="translate(92.51 16.86) rotate(90)"/>
+  <rect class="cls-1" x="25.66" y="55.48" width="7.32" height="3.34" rx="1.65" ry="1.65" transform="translate(86.47 27.82) rotate(90)"/>
+  <path class="cls-4" d="M26.35,30.37l-2.91-2.9c-.8-.8-.8-2.09,0-2.88l2.91-2.9c.8-.8,2.09-.8,2.89,0l2.91,2.9c.8,.8,.8,2.09,0,2.88l-2.91,2.9c-.8,.8-2.09,.8-2.89,0Z"/>
+  <ellipse class="cls-5" cx="17.61" cy="55.41" rx="6.61" ry="6.59"/>
+  <ellipse class="cls-2" cx="17.53" cy="55.58" rx="4.55" ry="4.53"/>
+  <path class="cls-4" d="M16.77,57.98l-1.58-1.57c-.46-.46-.46-1.21,0-1.68l1.58-1.57c.46-.46,1.22-.46,1.68,0l1.58,1.57c.46,.46,.46,1.21,0,1.68l-1.58,1.57c-.46,.46-1.22,.46-1.68,0Z"/>
+</svg>

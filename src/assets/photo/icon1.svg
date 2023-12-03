@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #94b9fd;
+      }
+
+      .cls-3 {
+        fill: #689aff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="5.2" y="5.2" width="19.6" height="19.6"/>
+  <circle class="cls-1" cx="15" cy="11.3" r="3.65"/>
+  <rect class="cls-3" x="3" y="11.76" width="24" height="2.15"/>
+  <path class="cls-3" d="M11.88,14.8h6.24c2.54,0,4.61,2.06,4.61,4.61v2c0,.86-.7,1.55-1.55,1.55H8.83c-.86,0-1.55-.7-1.55-1.55v-2c0-2.54,2.06-4.61,4.61-4.61Z"/>
+</svg>

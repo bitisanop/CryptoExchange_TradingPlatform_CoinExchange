@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #94b9fd;
+      }
+
+      .cls-2 {
+        fill: #689aff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="5" y="2" width="16.97" height="27"/>
+  <rect class="cls-1" x="5" y="2" width="16.97" height="3.86"/>
+  <rect class="cls-1" x="5" y="25.14" width="16.97" height="3.86"/>
+  <polygon class="cls-1" points="25 8.56 25 17.38 15.1 17.38 11.16 21.18 11.16 17.38 8.1 17.38 8.1 8.56 25 8.56"/>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #94b9fd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #689aff;
+        stroke-miterlimit: 10;
+        stroke-width: .98px;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M18.52,5.97c1.46,.62,2.48,2.07,2.48,3.75s-1.02,3.13-2.48,3.76"/>
+  <path class="cls-1" d="M9.52,14.24h-3.91c-2.54,0-4.6-2.05-4.6-4.58h0c0-2.53,2.06-4.58,4.6-4.58h4.02l-.11,9.16Z"/>
+  <polygon class="cls-1" points="8 20 5.18 13.79 8.61 12.25 11.43 18.46 8 20"/>
+  <path class="cls-1" d="M17.99,17.27l-7.49-3.12V5.23l7.49-3.12c.76-.32,1.56,.13,1.56,.9v13.37c0,.77-.8,1.22-1.56,.9Z"/>
+</svg>

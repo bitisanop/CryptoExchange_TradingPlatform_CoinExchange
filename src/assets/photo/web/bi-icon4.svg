@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 76 76">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #94b9fd;
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_304);
+      }
+
+      .cls-4 {
+        fill: #4187f7;
+      }
+
+      .cls-5 {
+        fill: #689aff;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_304" data-name="未命名的渐变 304" x1="-720.87" y1="-268.61" x2="-704.07" y2="-268.61" gradientTransform="translate(-217.25 760.76) rotate(90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#85b5f8"/>
+      <stop offset=".89" stop-color="#4187f7"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-2" d="M9,29.21v30.2c0,1.98,1.6,3.59,3.57,3.59H63.43c1.97,0,3.57-1.61,3.57-3.59V29.21H9Z"/>
+  <path class="cls-2" d="M67,25.96v-9.36c0-1.98-1.6-3.59-3.57-3.59H12.57c-1.97,0-3.57,1.61-3.57,3.59v9.36h58Z"/>
+  <rect class="cls-1" x="11.61" y="34.57" width="29.18" height="6.17" rx="3.07" ry="3.07"/>
+  <rect class="cls-1" x="11.61" y="43.64" width="17.89" height="6.17" rx="3.07" ry="3.07"/>
+  <ellipse class="cls-5" cx="51.51" cy="47.98" rx="12.14" ry="12.22"/>
+  <ellipse class="cls-3" cx="51.36" cy="48.29" rx="8.35" ry="8.4"/>
+  <path class="cls-4" d="M50.16,52.96l-3.29-3.31c-.74-.75-.74-1.96,0-2.71l3.29-3.31c.74-.75,1.95-.75,2.69,0l3.29,3.31c.74,.75,.74,1.96,0,2.71l-3.29,3.31c-.74,.75-1.95,.75-2.69,0Z"/>
+</svg>
