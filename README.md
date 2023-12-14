@@ -9,7 +9,17 @@ BIZZAN - New and upgraded version of BiZZAN
 In terms of compliance, we will actively cooperate with global financial supervision and establish a sound regulatory framework to ensure the compliant operation of the platform. We pursue a fair and transparent market environment, safeguard the rights and interests of investors, and provide market participants with a stable and reliable trading platform.
 Through continuous optimization and innovation, our vision is to become the world's leading digital asset trading platform, create more value for users, promote the progress of financial technology, and promote the sustainable development of the digital economy.
 
-<!-- - Video tutorial: [[BITISAN open source version deployment tutorial.mp4]]() -->
+## Commercial version demo picture
+
+![Example image](image/a.png)
+![Example image](image/b.png)
+![Example image](image/c.png)
+![Example image](image/d.png)
+![Example image](image/e.png)
+![Example image](image/f.png)
+![Example image](image/g.png)
+![Example image](image/h.png)
+![Example image](image/i.png)
 
 ## Kind tips:
 
@@ -129,15 +139,3 @@ https://admin.bitisan.org Account: test Password: 123456<br>
 - JRE 8u241
 - JDK 1.8
 -Vue
-
-## Commercial version demo picture
-
-![Example image](image/a.png)
-![Example image](image/b.png)
-![Example image](image/c.png)
-![Example image](image/d.png)
-![Example image](image/e.png)
-![Example image](image/f.png)
-![Example image](image/g.png)
-![Example image](image/h.png)
-![Example image](image/i.png)
