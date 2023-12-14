@@ -2,6 +2,13 @@
 BIZZAN - New and upgraded version of BiZZAN
 
 ### Unique demo address: www.bitisan.org
+
+- The test environment is for learning reference only! ! ! Dear fellow students, please use it rationally.
+
+- Test environment address:<br>
+https://www.bitisan.org Account: 13100031000 Password: 123456<br>
+https://admin.bitisan.org Account: test Password: 123456<br>
+
 ## Project Introduction:
 - BITISAN aims to build a leading digital asset exchange and provide safe, efficient and innovative financial services to global users. As a trading platform, we focus on user privacy and asset security, and use the most advanced blockchain technology to provide users with a faster and more convenient trading experience.
 
@@ -20,6 +27,12 @@ Through continuous optimization and innovation, our vision is to become the worl
 ![Example image](image/g.png)
 ![Example image](image/h.png)
 ![Example image](image/i.png)
+
+## Backstage management
+![示例图片](image/admin.png)
+![示例图片](image/admin1.png)
+![示例图片](image/admin2.png)
+![示例图片](image/admin3.png)
 
 ## Kind tips:
 
@@ -96,14 +109,6 @@ Ensuring the safety of funds is the top priority for investors, so choose a repu
 - Database: Mysql, Mongodb<br>
 - Others: redis, rocketMq, Alibaba Cloud OSS, Tencent waterproof verification, environmental information push<br>
 - Front-end: Vue, uniApp, Swift(ios), Java(android)<br>
-
-## test environment:
-
-- The test environment is for learning reference only! ! ! Dear fellow students, please use it rationally.
-
-- Test environment address:<br>
-https://www.bitisan.org Account: 13100031000 Password: 123456<br>
-https://admin.bitisan.org Account: test Password: 123456<br>
 
 ## join us:
 

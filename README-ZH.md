@@ -4,6 +4,11 @@
 BIZZAN-币严全新升级版
 
 ### 唯一演示地址： www.bitisan.org
+
+- 测试环境仅供学习参考！！！请各位学习的小伙伴合理运用。
+- 测试环境地址:<br>
+https://www.bitisan.org 账户：13100031000 密码：123456<br>
+https://admin.bitisan.org 账户：test 密码：123456<br>
 ## 项目介绍：
 - BITISAN 旨在打造一家领先的数字资产交易所，为全球用户提供安全、高效、创新的金融服务。作为一家交易平台，我们注重用户隐私和资产安全，采用最先进的区块链技术，为用户提供更快、更便捷的交易体验。
 
@@ -22,6 +27,12 @@ BIZZAN-币严全新升级版
 ![示例图片](image/g.png)
 ![示例图片](image/h.png)
 ![示例图片](image/i.png)
+
+## 后台管理演示图
+![示例图片](image/admin.png)
+![示例图片](image/admin1.png)
+![示例图片](image/admin2.png)
+![示例图片](image/admin3.png)
 
 ## 温馨提示：
 
@@ -98,14 +109,6 @@ BIZZAN-币严全新升级版
 - 数据库：Mysql、Mongodb<br>
 - 其他：redis、rocketMq、阿里云 OSS、腾讯防水校验、环信推送<br>
 - 前端：Vue、uniApp、Swift(ios)、Java(android)<br>
-
-## 测试环境：
-
-- 测试环境仅供学习参考！！！请各位学习的小伙伴合理运用。
-
-- 测试环境地址:<br>
-https://www.bitisan.org 账户：13100031000 密码：123456<br>
-https://admin.bitisan.org 账户：test 密码：123456<br>
 
 ## 加入我们：
 
