@@ -8,7 +8,7 @@ BIZZAN - New and upgraded version of BiZZAN
 - Test environment address:<br>
 https://www.bitisan.org Account: 13100031000 Password: 123456<br>
 https://admin.bitisan.org Account: test Password: 123456<br>
-
+- ## [简体中文](README-ZH.md)
 ## Project Introduction:
 - BITISAN aims to build a leading digital asset exchange and provide safe, efficient and innovative financial services to global users. As a trading platform, we focus on user privacy and asset security, and use the most advanced blockchain technology to provide users with a faster and more convenient trading experience.
 
