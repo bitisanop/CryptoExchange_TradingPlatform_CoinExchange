@@ -50,7 +50,7 @@ https://admin.bitisan.org 账户：test 密码：123456<br>
 - Telegram：https://t.me/bitisanex
 - Telegram商务：https://t.me/bitisanop
 - E-mail：bitisanop@gmail.com
-- QQ：3801661902(bitisanop)
+- QQ：3801661902(bitisanex)
 
 # 捐赠：
 
