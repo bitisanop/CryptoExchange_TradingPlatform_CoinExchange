@@ -28,6 +28,24 @@ Through continuous optimization and innovation, our vision is to become the worl
 ![Example image](image/h.png)
 ![Example image](image/i.png)
 
+## H5 version demo picture
+<p align="center" style="display:flex">
+  <img src="image/h5-1.png" width="50%" alt="Image 1" style="margin-right:10px">
+  <img src="image/h5-2.png" width="50%" alt="Image 2">
+</p>
+<p align="center" style="display:flex">
+  <img src="image/h5-3.png" width="50%" alt="Image 1" style="margin-right:10px">
+  <img src="image/h5-4.png" width="50%" alt="Image 2">
+</p>
+<p align="center" style="display:flex">
+  <img src="image/h5-5.png" width="50%" alt="Image 1" style="margin-right:10px">
+  <img src="image/h5-6.png" width="50%" alt="Image 2">
+</p>
+<p align="center" style="display:flex">
+  <img src="image/h5-7.png" width="50%" alt="Image 1" style="margin-right:10px">
+  <img src="image/h5-8.png" width="50%" alt="Image 2">
+</p>
+
 ## Backstage management
 ![示例图片](image/admin.png)
 ![示例图片](image/admin1.png)

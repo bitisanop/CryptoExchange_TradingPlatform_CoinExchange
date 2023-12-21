@@ -29,6 +29,24 @@ https://admin.bitisan.org 账户：test 密码：123456<br>
 ![示例图片](image/h.png)
 ![示例图片](image/i.png)
 
+## H5演示图
+<p align="center" style="display:flex">
+  <img src="image/h5-1.png" width="50%" alt="Image 1" style="margin-right:10px">
+  <img src="image/h5-2.png" width="50%" alt="Image 2">
+</p>
+<p align="center" style="display:flex">
+  <img src="image/h5-3.png" width="50%" alt="Image 1" style="margin-right:10px">
+  <img src="image/h5-4.png" width="50%" alt="Image 2">
+</p>
+<p align="center" style="display:flex">
+  <img src="image/h5-5.png" width="50%" alt="Image 1" style="margin-right:10px">
+  <img src="image/h5-6.png" width="50%" alt="Image 2">
+</p>
+<p align="center" style="display:flex">
+  <img src="image/h5-7.png" width="50%" alt="Image 1" style="margin-right:10px">
+  <img src="image/h5-8.png" width="50%" alt="Image 2">
+</p>
+
 ## 后台管理演示图
 ![示例图片](image/admin.png)
 ![示例图片](image/admin1.png)
