@@ -6,7 +6,8 @@ BIZZAN - New and upgraded version of BiZZAN
 - The test environment is for learning reference only! ! ! Dear fellow students, please use it rationally.
 
 - Test environment address:<br>
-https://www.bitisan.org Account: 13100031000 Password: 123456<br>
+https://www.bitisan.org Account: 1310031000 Password: 123456<br>
+https://h5.bitisan.org Account: 1310031000 Password: 123456(mobile)<br>
 https://admin.bitisan.org Account: test Password: 123456<br>
 - ## [简体中文](README-ZH.md)
 ## Project Introduction:
