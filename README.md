@@ -163,4 +163,4 @@ Ensuring the safety of funds is the top priority for investors, so choose a repu
 - nginx-1.16.0+
 - JRE 8u241
 - JDK 1.8
--Vue
+-Vue  
