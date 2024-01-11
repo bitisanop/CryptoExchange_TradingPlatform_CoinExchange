@@ -1,7 +1,6 @@
                               
 
 # BITISAN开源数字货币、永续合约交易系统
-BIZZAN-币严全新升级版
 
 ### 唯一演示地址： www.bitisan.org
 

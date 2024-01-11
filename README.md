@@ -1,6 +1,4 @@
-#BITISAN open source digital currency, perpetual contract trading system
-BIZZAN - New and upgraded version of BiZZAN
-
+# BITISAN open source digital currency, perpetual contract trading system
 ### Unique demo address: www.bitisan.org
 
 - The test environment is for learning reference only! ! ! Dear fellow students, please use it rationally.
