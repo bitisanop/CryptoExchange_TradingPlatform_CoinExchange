@@ -141,26 +141,14 @@ Ensuring the safety of funds is the top priority for investors, so choose a repu
 ## Overall structure
 #### ![Topology-Image](image/pic1.png)
 
-## Logical architecture
-
-#### ![Topology-Image](image/pic2.png)
-
-## Deployment architecture
-
-#### ![Topology-Image](image/pic3.png)
-
-## Dependencies
-
-#### ![Topology-Image](image/pic4.png)
-
 ## Environment setup
 
--Centos 7.6+
--MySQL 5.7.16+
+- Centos 7.6+
+- MySQL 5.7.16+
 - Redis 6.2.7
 - MongoDB 4.0+
 - rocketMq 4.4.0
 - nginx-1.16.0+
 - JRE 8u241
 - JDK 1.8
--Vue  
+- Vue  

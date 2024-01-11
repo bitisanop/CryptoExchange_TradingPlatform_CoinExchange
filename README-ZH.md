@@ -141,19 +141,6 @@ https://admin.bitisan.org 账户：test 密码：123456<br>
 
 ## 整体架构
 #### ![Topology-Image](image/pic1.png)
-
-## 逻辑架构
-
-#### ![Topology-Image](image/pic2.png)
-
-## 部署架构
-
-#### ![Topology-Image](image/pic3.png)
-
-## 依赖关系
-
-#### ![Topology-Image](image/pic4.png)
-
 ## 环境搭建
 
 - Centos 7.6+
