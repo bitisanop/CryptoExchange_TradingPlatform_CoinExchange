@@ -7,7 +7,7 @@
 - 测试环境仅供学习参考！！！请各位学习的小伙伴合理运用。
 - 测试环境地址:<br>
 https://www.bitisan.org 账户：1310031000 密码：123456<br>
-)https://h5.bitisan.org 账户：1310031000 密码：123456(移动端)<br>
+https://h5.bitisan.org 账户：1310031000 密码：123456(移动端)<br>
 https://admin.bitisan.org 账户：test 密码：123456<br>
 - ## [English](README.md)
 ## 项目介绍：
