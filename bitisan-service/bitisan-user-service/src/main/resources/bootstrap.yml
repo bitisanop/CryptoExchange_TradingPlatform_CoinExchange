@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: bitisan-user
+  cloud:
+    nacos:
+      config:
+        file-extension: yaml
+        server-addr: ${nacos.server-addr}
+        auto-refresh: true # 是否启用动态刷新配置
+        shared-configs: base.yaml,email-sms.yaml,bitisan-seata.yaml
+      discovery:
+        #Nacos的注册地址
+        server-addr: ${nacos.server-addr}

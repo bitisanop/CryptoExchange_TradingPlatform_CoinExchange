@@ -1,0 +1,31 @@
+spring:
+  application:
+    name: bitisan-gateway
+  cloud:
+    nacos:
+      config:
+        file-extension: yaml
+        server-addr: ${nacos.server-addr}
+        auto-refresh: true # 是否启用动态刷新配置
+        shared-configs: base.yaml
+      discovery:
+        #Nacos的注册地址
+        server-addr: ${nacos.server-addr}
+    gateway:
+      globalcors:
+        cors-configurations:
+          '[/**]':
+            # 允许携带认证信息
+            # 允许跨域的源(网站域名/ip)，设置*为全部
+            # 允许跨域请求里的head字段，设置*为全部
+            # 允许跨域的method， 默认为GET和OPTIONS，设置*为全部
+            # 跨域允许的有效期
+            allow-credentials: true
+            allowed-origins: "*"
+#              - "http://127.0.0.1:8080"
+#              - "http://localhost:13010"
+            allowed-headers: "*"
+            allowed-methods: "*"
+            max-age: 3600
+#        default-filters:
+#          - DedupeResponseHeader=Vary Access-Control-Allow-Origin Access-Control-Allow-Credentials, RETAIN_FIRST

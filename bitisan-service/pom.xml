@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>bitisan</artifactId>
+        <groupId>com.bitisan</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>bitisan-service</artifactId>
+    <packaging>pom</packaging>
+    <description>
+        所有微服务工程父工程
+    </description>
+    <modules>
+        <module>bitisan-user-service</module>
+        <module>bitisan-permission-service</module>
+        <module>bitisan-admin-service</module>
+        <module>bitisan-exchange-service</module>
+        <module>bitisan-market-service</module>
+        <module>bitisan-match-service</module>
+        <module>bitisan-swap-service</module>
+        <module>bitisan-second-service</module>
+        <module>bitisan-option-service</module>
+        <module>bitisan-p2p-service</module>
+        <module>bitisan-robot-market-service</module>
+        <module>bitisan-robot-normal-service</module>
+        <module>bitisan-coinswap-service</module>
+        <module>bitisan-earn-service</module>
+        <module>bitisan-agent-service</module>
+        <module>bitisan-udun-service</module>
+        <module>bitisan-kline-tools</module>
+        <module>bitisan-open-service</module>
+    </modules>
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+    <dependencies>
+        <!-- jar 依赖 -->
+        <dependency>
+            <groupId>com.bitisan</groupId>
+            <artifactId>bitisan-service-dependency</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <!--工具包 依赖-->
+        <dependency>
+            <groupId>com.bitisan</groupId>
+            <artifactId>bitisan-common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
+</project>

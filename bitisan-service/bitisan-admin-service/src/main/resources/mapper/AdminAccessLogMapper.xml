@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bitisan.admin.mapper.AdminAccessLogMapper">
+
+    <select id="pageQuery" resultType="com.bitisan.admin.vo.AdminAccessLogVo">
+        select aal.*,a.username as admin_name,a.id as admin_id from admin_access_log aal
+        left join admin a on a.id = aal.admin_id
+        <where>
+            <if test="adminName!=null and adminName!=''">
+                a.username like concat('%',#{adminName},'%')
+            </if>
+            <if test="module!=null">
+                and aal.module = #{module}
+            </if>
+        </where>
+    </select>
+</mapper>

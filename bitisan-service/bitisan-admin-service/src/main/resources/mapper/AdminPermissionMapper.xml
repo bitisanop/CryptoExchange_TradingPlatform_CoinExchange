@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bitisan.admin.mapper.AdminPermissionMapper">
+
+    <select id="getPermissionsByRid" resultType="com.bitisan.admin.entity.AdminPermission">
+        select * from admin_permission p
+        left join admin_role_permission arp on arp.rule_id = p.id
+        where arp.role_id = #{rid}
+    </select>
+</mapper>
