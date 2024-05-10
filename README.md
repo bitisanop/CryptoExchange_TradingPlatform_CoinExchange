@@ -66,8 +66,6 @@ Through continuous optimization and innovation, our vision is to become the worl
 - Telegram: https://t.me/bitisanex
 - Telegram Business: https://t.me/bitisanop
 - E-mail: bitisanop@gmail.com
-- QQ：3801661902(bitisanex)
-
 # Donate:
 
 - Your donation is our biggest motivation for open source
