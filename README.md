@@ -1,12 +1,17 @@
 # BITISAN open source digital currency, perpetual contract trading system
-### Unique demo address: www.bitisan.org
+### Unique demo address: www.bitisanex.org
+## contact us:
 
+- Twitter: https://twitter.com/bitisan<br>
+- Telegram: https://t.me/bitisanex<br>
+- Telegram Business: https://t.me/bitisanop<br>
+- E-mail: bitisanop@gmail.com<br>
 - The test environment is for learning reference only! ! ! Dear fellow students, please use it rationally.
 
 - Test environment address:<br>
-https://www.bitisan.org Account: 1310031000 Password: 123456<br>
-https://h5.bitisan.org Account: 1310031000 Password: 123456(mobile)<br>
-https://admin.bitisan.org Account: test Password: 123456<br>
+https://www.bitisanex.org Account: test Password: 123456<br>
+https://h5.bitisanex.org Account: test Password: 123456(mobile)<br>
+https://admin.bitisanex.org Account: admin Password: 123456<br>
 - ## [简体中文](README-ZH.md)
 ## Project Introduction:
 - BITISAN aims to build a leading digital asset exchange and provide safe, efficient and innovative financial services to global users. As a trading platform, we focus on user privacy and asset security, and use the most advanced blockchain technology to provide users with a faster and more convenient trading experience.
