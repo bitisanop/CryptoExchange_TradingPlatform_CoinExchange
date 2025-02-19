@@ -2,13 +2,20 @@
 
 # BITISAN开源数字货币、永续合约交易系统
 
-### 唯一演示地址： www.bitisan.org
+## 联系我们：
+
+- Twitter：https://twitter.com/bitisan<br>
+- Telegram：https://t.me/bitisanex<br>
+- Telegram商务：https://t.me/bitisanop<br>
+- E-mail：bitisanop@gmail.com<br>
+
+### 唯一演示地址： www.bitisanex.org
 
 - 测试环境仅供学习参考！！！请各位学习的小伙伴合理运用。
 - 测试环境地址:<br>
-https://www.bitisan.org 账户：1310031000 密码：123456<br>
-https://h5.bitisan.org 账户：1310031000 密码：123456(移动端)<br>
-https://admin.bitisan.org 账户：test 密码：123456<br>
+https://www.bitisanex.org 账户：test 密码：123456<br>
+https://h5.bitisanex.org 账户：test 密码：123456(移动端)<br>
+https://admin.bitisanex.org 账户：admin 密码：123456<br>
 - ## [English](README.md)
 ## 项目介绍：
 - BITISAN 旨在打造一家领先的数字资产交易所，为全球用户提供安全、高效、创新的金融服务。作为一家交易平台，我们注重用户隐私和资产安全，采用最先进的区块链技术，为用户提供更快、更便捷的交易体验。
